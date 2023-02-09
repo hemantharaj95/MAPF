@@ -1,0 +1,3 @@
+[submodule "RubikTable/Network_Flow"]
+	path = RubikTable/Network_Flow
+	url = https://github.com/hemantharaj95/Network_Flow
